@@ -17,4 +17,3 @@
 <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="40" height="40"
 </a>
 </p>
-![Статистика Github] (https://github-readme-stats.vercel.app/api?username=yourGithubUsername )
