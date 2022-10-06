@@ -2,7 +2,7 @@
 <h3 align="center">Amateur student and author of small projects</h3>
 
 [![codewars](https://www.codewars.com/users/twsomt_01/badges/small)](https://www.codewars.com/users/twsomt_01)  
-
+![Статистика Github] (https://github-readme-stats.vercel.app/api?username=twsomt )
 
 - 🌱 I’m currently learning **web**
 
