@@ -11,7 +11,7 @@
 
 - 📄 Over time, a link to some interesting project of mine will appear here
 
-- 🌍 I speak Russian (native), English (.-. and ._.)
+- 🌍 I speak Russian (native), English (.-. and -_- and ._.)
 
 ### Connect with me:
 <p align="left">
