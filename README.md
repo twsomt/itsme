@@ -1,4 +1,4 @@
-<h1 align="center">Hi there</h1> ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+<h1 align="center">Hi there<!/h1>
 <h3 align="center">Amateur student and author of small projects</h3>
 
 [![codewars](https://www.codewars.com/users/twsomt_01/badges/small)](https://www.codewars.com/users/twsomt_01)  
