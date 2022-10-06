@@ -2,7 +2,6 @@
 <h3 align="center">Amateur student and author of small projects</h3>
 
 [![codewars](https://www.codewars.com/users/twsomt_01/badges/small)](https://www.codewars.com/users/twsomt_01)  
-![Карточка ReadMe] (https://github-readme-stats.vercel.app/api/pin/?username=twsomt )
 
 - 🌱 I’m currently learning **web**
 
@@ -18,3 +17,4 @@
 <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="40" height="40"
 </a>
 </p>
+![Статистика Github] (https://github-readme-stats.vercel.app/api?username=yourGithubUsername )
