@@ -4,7 +4,7 @@
 [![codewars](https://www.codewars.com/users/twsomt_01/badges/small)](https://www.codewars.com/users/twsomt_01)  
 
 
-- 🌱 I’m currently learning **QA, python, web**
+- 🌱 I’m currently learning **web**
 
 - 📫 How to reach me **twsomt@yandex.ru**
 
