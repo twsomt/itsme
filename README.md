@@ -3,6 +3,8 @@
 
 [![codewars](https://www.codewars.com/users/twsomt_01/badges/small)](https://www.codewars.com/users/twsomt_01)  
 
+[![Гитхаб Анурага stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning **web**
 
 - 📫 How to reach me **twsomt@yandex.ru**
