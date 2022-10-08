@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **web**
 
-- 📫 How to reach me **twsomt@yandex.ru**
-
 - 📄 Over time, a link to some interesting project of mine will appear here
 
 - 🌍 I speak Russian (native), English (.-. and o-o and x-x)
