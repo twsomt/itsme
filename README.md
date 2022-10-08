@@ -3,7 +3,7 @@
 
 [![codewars](https://www.codewars.com/users/twsomt/badges/small)](https://www.codewars.com/users/twsomt)  
 
-[![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)](https://github.com/twsomt/django4)
+[![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)]
 
 - 🌱 I’m currently learning **web**
 
