@@ -8,7 +8,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india)
 <p align="left">
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twsomt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twsomt)](https://github.com/anuraghazra/github-readme-stats)
   
   
 - 🌱 I’m currently learning **web**
