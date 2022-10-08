@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!</h1>
 <h3 align="center">Amateur student and author of small projects</h3>
 
-[![codewars](https://www.codewars.com/users/twsomt_01/badges/small)](https://www.codewars.com/users/twsomt_01)  
+[![codewars](https://www.codewars.com/users/twsomt/badges/large)](https://www.codewars.com/users/twsomt)  
 
 [![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)](https://github.com/twsomt/django4)
 
