@@ -6,12 +6,13 @@
 ![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twsomt)
-
+<p align="left">
 - 🌱 I’m currently learning **web**
 
 - 📄 Over time, a link to some interesting project of mine will appear here
 
 - 🌍 I speak Russian (native), English (.-. and o-o and x-x)
+</p>
 
 ### Connect with me:
 <p align="left">
