@@ -5,7 +5,7 @@
 
 ![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twsomt)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india)
 <p align="left">
   
 - 🌱 I’m currently learning **web**
