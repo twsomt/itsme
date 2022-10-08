@@ -20,6 +20,6 @@
 ### Connect with me:
 <p align="left">
 <a href="https://t.me/twsomt">
-<img src="https://www.svgrepo.com/show/354443/telegram.svg" width="40" height="40"
+<img src="https://www.svgrepo.com/show/354443/telegram.svg" width="40" height="40">
 </a>
 </p>
