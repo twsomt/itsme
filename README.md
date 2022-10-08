@@ -3,7 +3,8 @@
 #![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)
 [![codewars](https://www.codewars.com/users/twsomt/badges/small)](https://www.codewars.com/users/twsomt)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twsomt)
+![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twsomt)]
 
 - 🌱 I’m currently learning **web**
 
