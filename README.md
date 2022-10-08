@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">Amateur and author of small projects</h3>
-
+#![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)
 [![codewars](https://www.codewars.com/users/twsomt/badges/small)](https://www.codewars.com/users/twsomt)  
 
-
+#![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twsomt)
 
