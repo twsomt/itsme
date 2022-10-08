@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">Amateur and author of small projects</h3>
 
 [![codewars](https://www.codewars.com/users/twsomt/badges/small)](https://www.codewars.com/users/twsomt)  
