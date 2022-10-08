@@ -3,11 +3,10 @@
 
 ![codewars](https://www.codewars.com/users/twsomt/badges/large)
 
-![Гитхаб twsomt stats](https://github-readme-stats.vercel.app/api?username=twsomt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twsomt&layout=compact)
 <br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twsomt)
+
 
 <p align="left">
   
