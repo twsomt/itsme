@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">Amateur and author of small projects</h3>
 
-![codewars](https://www.codewars.com/users/twsomt/badges/large)
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india)
+<br>
+![codewars](https://www.codewars.com/users/twsomt/badges/large)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twsomt&layout=compact)
 
