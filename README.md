@@ -11,7 +11,7 @@
 
 <p align="left">
   
-- 🌱 I’m interested in **web development**
+- 🌱 I’m interested in **web** development
  
 - 📄 Over time, a link to some interesting project of mine will appear here
 
