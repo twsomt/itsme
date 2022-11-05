@@ -11,8 +11,8 @@
 
 <p align="left">
   
-- 🌱 I’m currently learning **web**
-
+- 🌱 I’m interested in **web development**
+ 
 - 📄 Over time, a link to some interesting project of mine will appear here
 
 - 🌍 I speak Russian (native), English (.-. and o-o and x-x)
