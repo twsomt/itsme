@@ -6,7 +6,7 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twsomt&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twsomt&layout=compact) -->
 
 
 <p align="left">
