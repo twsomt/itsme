@@ -11,7 +11,7 @@
 
 <p align="left">
   
-- 🌱 I’m interested in **web** development
+- 🌱 I’m interested in **web** development. I used to do amateur development of farmbots for games.
  
 - 📄 Over time, a link to some interesting project of mine will appear here
 
