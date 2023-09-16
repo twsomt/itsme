@@ -4,7 +4,7 @@
 ![codewars](https://www.codewars.com/users/twsomt/badges/large)
 <br>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india)
+<!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india) -->
 <br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twsomt&layout=compact) -->
 
