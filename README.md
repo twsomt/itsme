@@ -4,11 +4,11 @@
 
 ![codewars](https://www.codewars.com/users/twsomt/badges/large)
 
-**I'm interested in web development. I used to do amateur development of farmbots for games.**
+- I'm interested in web development. I used to do amateur development of farmbots for games.
 
-**Over time, a link to some interesting project of mine will appear here.**
+- Over time, a link to some interesting project of mine will appear here.
 
-**I speak Russian (native), English (.-. and o-o and x-x).**
+- I speak Russian (native), English (.-. and o-o and x-x).
 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india)
