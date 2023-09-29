@@ -10,7 +10,6 @@
 
 **I speak Russian (native), English (.-. and o-o and x-x).**
 
-### GitHub Stats:
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india)
 
