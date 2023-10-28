@@ -10,8 +10,7 @@
 
 - 🙊 I speak Russian (native), English (.-. and o-o and x-x).
 
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twsomt&theme=flag-india)
+![GitHub Streak](https://github-readme-streak-stats-mocha.vercel.app?user=twsomt&theme=flag-india)
 
 ### 🛠 &nbsp;Tech Stack
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
