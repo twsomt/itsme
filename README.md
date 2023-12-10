@@ -8,7 +8,7 @@
 
 - 🔍 Over time, a link to some interesting project of mine will appear here.
 
-- 🙊 I speak Russian (native), English (.-. and o-o and x-x).
+- 🙊 I speak Russian (native), English (documentation).
 
 ![GitHub Streak](https://github-readme-streak-stats-mocha.vercel.app?user=twsomt&theme=flag-india)
 
